@@ -1,0 +1,28 @@
+- package.json
+- ingresar a la carpeta del proyecto
+- instalar express
+	-> npm install express --save
+- servidor.js
+
+- instalar nodemon
+	->  npm install nodemon --save
+ 		*npm install -g nodemon
+
+
+======
+Conectar con Mongo
+- instalar libreria
+	-> npm install mongoose --save
+		*npm install mongoose
+
+-configurar conexion
+
+
+========
+- instalar cors
+	-> npm install cors --save
+
+.
+
+
+https://enable-cors.org/server_expressjs.html
